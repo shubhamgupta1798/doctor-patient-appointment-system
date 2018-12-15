@@ -7,5 +7,4 @@ To build this we have used HTML,CSS, JAVASCRIPT,PHP and PHP MAILER library for s
 
 
 The patient html,css,php files are starting with patient_ and the admin files start with admin_ and so on.
-
-
+The patient can book a appointments from the website and can also donate a blood. In admins pannel it will show how many appointments are made and how much blood donations are made by each blood group present. 
